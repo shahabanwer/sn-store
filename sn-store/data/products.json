@@ -1,0 +1,186 @@
+[
+  {
+    "id": "sn-001",
+    "name": "Nimbus Pro Wireless Earphones",
+    "category": "Audio",
+    "price": 2499,
+    "mrp": 3499,
+    "rating": 4.4,
+    "reviews": 812,
+    "stock": 34,
+    "image": "https://images.pexels.com/photos/2344986/pexels-photo-2344986.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "gallery": [
+      "https://images.pexels.com/photos/2344986/pexels-photo-2344986.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    ],
+    "tagline": "True wireless sound that keeps up with your day.",
+    "description": "The Nimbus Pro pairs a deep, balanced bass with crisp highs, wrapped in a featherlight in-ear shell. With 28 hours of combined playback and a quick 10-minute top-up for 2 hours of listening, it's built for commutes, calls and everything between.",
+    "specs": [
+      "Bluetooth 5.3 with dual-device pairing",
+      "28-hour total battery life (case included)",
+      "Active noise cancellation, 32dB reduction",
+      "IPX5 sweat and splash resistant",
+      "Touch controls with voice assistant support"
+    ]
+  },
+  {
+    "id": "sn-002",
+    "name": "Meridian Classic Chronograph Watch",
+    "category": "Watches",
+    "price": 18999,
+    "mrp": 24999,
+    "rating": 4.7,
+    "reviews": 356,
+    "stock": 12,
+    "image": "https://images.pexels.com/photos/2315750/pexels-photo-2315750.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "gallery": [
+      "https://images.pexels.com/photos/2315750/pexels-photo-2315750.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    ],
+    "tagline": "A timeless face for boardrooms and evenings out.",
+    "description": "Precision-engineered with a sapphire-coated crystal face and a stainless steel case, the Meridian Classic brings old-world craftsmanship to your wrist. The chronograph dial and genuine leather strap make it as suited to formalwear as it is to a Sunday brunch.",
+    "specs": [
+      "Stainless steel case, 42mm",
+      "Scratch-resistant sapphire-coated crystal",
+      "Genuine leather strap, quick-release pins",
+      "Water resistant up to 50m",
+      "2-year manufacturer warranty"
+    ]
+  },
+  {
+    "id": "sn-003",
+    "name": "Velvet Oud Eau de Parfum",
+    "category": "Fragrance",
+    "price": 1899,
+    "mrp": 2299,
+    "rating": 4.5,
+    "reviews": 601,
+    "stock": 58,
+    "image": "https://images.pexels.com/photos/2336454/pexels-photo-2336454.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "gallery": [
+      "https://images.pexels.com/photos/2336454/pexels-photo-2336454.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    ],
+    "tagline": "A warm, woody signature that lingers just right.",
+    "description": "Velvet Oud opens with notes of amber and saffron before settling into a smoky base of oud wood and musk. Long-lasting and versatile, it's designed for everyday wear that still feels a little special.",
+    "specs": [
+      "100ml, Eau de Parfum concentration",
+      "Top notes: saffron, amber",
+      "Base notes: oud wood, musk, sandalwood",
+      "Lasts 8-10 hours on skin",
+      "Cruelty-free, alcohol-based formula"
+    ]
+  },
+  {
+    "id": "sn-004",
+    "name": "Bloom Body Care Gift Set",
+    "category": "Beauty",
+    "price": 1299,
+    "mrp": 1799,
+    "rating": 4.3,
+    "reviews": 245,
+    "stock": 40,
+    "image": "https://images.pexels.com/photos/2389270/pexels-photo-2389270.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "gallery": [
+      "https://images.pexels.com/photos/2389270/pexels-photo-2389270.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    ],
+    "tagline": "A little self-care, boxed up and ready to gift.",
+    "description": "This set brings together a body lotion, shower gel and a fragrance mist in a soft floral scent, packed in reusable glass bottles. A thoughtful pick for birthdays, housewarmings, or just because.",
+    "specs": [
+      "Includes lotion, shower gel & mist (250ml each)",
+      "Paraben and sulphate free",
+      "Floral-woody fragrance family",
+      "Reusable glass packaging",
+      "Suitable for all skin types"
+    ]
+  },
+  {
+    "id": "sn-005",
+    "name": "Aria Smartwatch - Classic Black",
+    "category": "Wearables",
+    "price": 4999,
+    "mrp": 6499,
+    "rating": 4.2,
+    "reviews": 1024,
+    "stock": 61,
+    "image": "https://images.pexels.com/photos/437037/pexels-photo-437037.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "gallery": [
+      "https://images.pexels.com/photos/437037/pexels-photo-437037.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    ],
+    "tagline": "A minimalist dial with everything you actually use.",
+    "description": "Aria Classic Black keeps things simple: a clean round face, always-on display option, and the health tracking basics done well. Pair it once and it quietly stays out of your way.",
+    "specs": [
+      "1.3-inch AMOLED always-on display",
+      "7-day battery life on a single charge",
+      "Heart rate, SpO2 and sleep tracking",
+      "5ATM water resistance",
+      "Works with Android and iOS"
+    ]
+  },
+  {
+    "id": "sn-006",
+    "name": "Aria Smartwatch - Fitness Edition",
+    "category": "Wearables",
+    "price": 5499,
+    "mrp": 6999,
+    "rating": 4.4,
+    "reviews": 733,
+    "stock": 45,
+    "image": "https://images.pexels.com/photos/440320/pexels-photo-440320.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "gallery": [
+      "https://images.pexels.com/photos/440320/pexels-photo-440320.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    ],
+    "tagline": "Built for the days that start before sunrise.",
+    "description": "The Fitness Edition adds 20+ workout modes, built-in GPS and a tougher case to the Aria lineup. It tracks the runs, the swims and the recovery days equally well.",
+    "specs": [
+      "20+ built-in workout modes",
+      "Built-in GPS for pace and distance",
+      "10-day battery life (typical use)",
+      "5ATM water resistance, swim-safe",
+      "Real-time heart rate zones"
+    ]
+  },
+  {
+    "id": "sn-007",
+    "name": "Aria Smartwatch - Sport Band",
+    "category": "Wearables",
+    "price": 4799,
+    "mrp": 5999,
+    "rating": 4.1,
+    "reviews": 512,
+    "stock": 53,
+    "image": "https://images.pexels.com/photos/1682821/pexels-photo-1682821.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "gallery": [
+      "https://images.pexels.com/photos/1682821/pexels-photo-1682821.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    ],
+    "tagline": "Lightweight, colourful, and ready for anything.",
+    "description": "The Sport Band trades formality for comfort — a soft silicone strap and a lighter case that barely registers on your wrist, even after a full day of wear.",
+    "specs": [
+      "Soft-touch silicone strap",
+      "1.1-inch colour touch display",
+      "9-day battery life (typical use)",
+      "Water resistant up to 30m",
+      "Call and message notifications"
+    ]
+  },
+  {
+    "id": "sn-008",
+    "name": "Aria Smartwatch - Minimal Steel",
+    "category": "Wearables",
+    "price": 6299,
+    "mrp": 7999,
+    "rating": 4.6,
+    "reviews": 289,
+    "stock": 22,
+    "image": "https://images.pexels.com/photos/267394/pexels-photo-267394.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "gallery": [
+      "https://images.pexels.com/photos/267394/pexels-photo-267394.jpeg?auto=compress&cs=tinysrgb&w=1200"
+    ],
+    "tagline": "The Aria for people who don't want it to look like a gadget.",
+    "description": "A brushed steel bezel and a slimmer profile make the Minimal Steel read more like a watch than a wearable, without giving up step counts, notifications or heart rate tracking.",
+    "specs": [
+      "Brushed stainless steel bezel",
+      "1.2-inch AMOLED display",
+      "8-day battery life (typical use)",
+      "5ATM water resistance",
+      "Interchangeable 20mm straps"
+    ]
+  }
+]
